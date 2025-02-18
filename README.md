@@ -1,4 +1,3 @@
-# Python-Project
 # Objective
 Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
